@@ -4,13 +4,14 @@
   "description": "help people to prepare before interview",
   "main": "server.js",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "connect-flash": "^0.1.1",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
+    "midi-writer-js": "^1.7.4",
     "moment": "^2.24.0",
     "node-audiorecorder": "^2.2.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
