@@ -1,4 +1,4 @@
-## Humming It!
+## Hum Hum It!
 ### Getting Started
 ```
 npm install
